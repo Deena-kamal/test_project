@@ -224,7 +224,7 @@ DEPENDENCIES
   mysql2
   puma (~> 4.1)
   rails (~> 6.0.3, >= 6.0.3.2)
-  rspec-rails (~> 4.0.1)
+  rspec-rails
   sass-rails (>= 6)
   shoulda-matchers
   spring

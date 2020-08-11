@@ -27,9 +27,5 @@ describe User do
     it { should_not be_valid }
   end
 
-  # describe "test name doesnt exist" do 
-  #   it { should_not validate_presence_of(:name) }
-  # end 
-
 
 end
